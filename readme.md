@@ -29,8 +29,10 @@ A patient monitoring application, built using object oriented principles and arc
 
 `python src/demo.py`
 
-## Screenshot
+## Screenshots
 
-![statistic](design_documents/media/statistic.png)
-![plot](design_documents/media/plot.png)
-![graph](design_documents/media/graph.png)
+![statistic](design_documents/media/statistic.PNG)
+
+![plot](design_documents/media/plot.PNG)
+
+![graph](design_documents/media/graph.PNG)
